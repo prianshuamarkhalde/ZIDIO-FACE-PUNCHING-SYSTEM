@@ -10,6 +10,3 @@ Realistic feedback for user actions.
 Technologies Used
 Python: Main programming language.
 OpenCV: For real-time image processing and face detection.
-Pygame/Other GUI Frameworks (if applicable): For creating a graphical interface.
-Installation
-Follow the steps below to set up the project on your local machine:
